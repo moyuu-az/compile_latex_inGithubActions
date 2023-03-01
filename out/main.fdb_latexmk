@@ -1,0 +1,26 @@
+# Fdb version 3
+["dvipdf"] 1677628812 "out/main.dvi" "out/main.pdf" "out/main" 1677628812
+  "out/main.dvi" 1677628812 676 cc579166bdff1436e507bde0ebf47265 "latex"
+  (generated)
+  "out/main.pdf"
+["latex"] 1677628812 "/Users/sirius1000/Documents/test_githubactions_latex/main.tex" "out/main.dvi" "main" 1677628812
+  "/Users/sirius1000/Documents/test_githubactions_latex/main.tex" 1677628806 284 35489ad43688904ed66fda9116a7ed59 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1654720880 2222 78b930a5a6e3dc2ac69b78c2057b94d7 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty" 1654720880 4173 c989ee3ced31418e3593916ab26c793a ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty" 1654720880 88393 1adf6fa3f245270d06e3d4f8910f7fc5 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty" 1654720880 4474 f04cd1cc7bd76eb033e6fb12eb6a0d77 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty" 1654720880 2444 70065bddd85997dc1fd0bb7ae634e5fa ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls" 1654720880 20144 7555b7429d80bef287ebb82117811acc ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo" 1654720880 8448 e0391042ca0932ede1098ae14ada60ba ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-dvips.def" 1664484563 36250 66d5e47eefe2af956bb2c9f39846804f ""
+  "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
+  "/usr/local/texlive/2022/texmf-var/web2c/eptex/platex.fmt" 1666832255 3065274 fae4bec5821237860ff11d9b27c8b43a ""
+  "/usr/local/texlive/2022/texmf.cnf" 1666832211 577 209b46be99c9075fd74d4c0369380e8c ""
+  "main.tex" 1677628806 284 35489ad43688904ed66fda9116a7ed59 ""
+  "out/main.aux" 1677628812 32 3985256e7290058c681f74d7a3565a19 "latex"
+  (generated)
+  "out/main.aux"
+  "out/main.dvi"
+  "out/main.log"
