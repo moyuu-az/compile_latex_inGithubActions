@@ -9,3 +9,11 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           root_file: main.tex # コンパイルしたいファイル名を指定する
+      
+      - name: Push PDF to another branch
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: pdf-output # プッシュ先のブランチ名
+          FOLDER: output # プッシュしたいサブディレクトリ名
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Githubのトークン
