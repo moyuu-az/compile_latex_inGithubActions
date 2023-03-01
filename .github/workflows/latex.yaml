@@ -9,4 +9,8 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           root_file: main.tex # コンパイルしたいファイル名を指定する
-          working_directory: out
+      - name: Upload PDF file
+      - uses: actions/upload-artifact@v3
+        with:
+          name: PDF
+          path: main.pdf
