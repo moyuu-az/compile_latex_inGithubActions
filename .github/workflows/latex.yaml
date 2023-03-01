@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Compile LaTeX document
-        uses: xu-cheng/latex-action@v2
+        uses: xu-cheng/latex-action@v2.4.0 #v2.4.0以上じゃないとoutput_directoryが使えない
         with:
           root_file: main.tex # コンパイルしたいファイル名を指定する
-          output_directory: output
+          output_directory: output # ファイルを設置するディレクトリ指定
