@@ -16,4 +16,4 @@ jobs:
           REPO: self
           BRANCH: pdf-output # プッシュ先のブランチ名
           FOLDER: output # プッシュしたいサブディレクトリ名
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Githubのトークン
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }} # Githubのトークン
